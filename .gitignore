@@ -22,9 +22,12 @@ a.out
 # Dependencies and build folders
 .deps/
 .libs/
+bin/
 build/
 builds/
 target/
+test/
+tests/
 
 # ==========================================
 # Neovim
