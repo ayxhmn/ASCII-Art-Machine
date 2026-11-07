@@ -1,0 +1,76 @@
+# ==========================================
+# C lang
+# ==========================================
+# Compiled object files
+*.o
+*.obj
+*.exe
+
+# Target Executables
+a.out
+
+# Libraries and Archives
+*.lib
+*.a
+*.la
+*.lo
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Dependencies and build folders
+.deps/
+.libs/
+build/
+builds/
+target/
+
+# ==========================================
+# Neovim
+# ==========================================
+# Swap, backup, and undo files
+*.swp
+*.swo
+*~
+.netrwhist
+*.un~
+
+# Session files
+Session.vim
+.nvim.lua
+
+# Ctags files
+tags
+tags.lock
+tags.temp
+
+# Language Server / Linter caches
+.clangd/
+.cache/
+
+# ==========================================
+# Linux
+# ==========================================
+.directory
+
+# Core dumps from C segmentation faults
+core
+vgcore.*
+
+# ==========================================
+# Test Media
+# ==========================================
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.bmp
+
+# ===========================================
+# Other
+# ===========================================
+
